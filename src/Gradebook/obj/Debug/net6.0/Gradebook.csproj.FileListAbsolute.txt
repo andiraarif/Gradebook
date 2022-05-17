@@ -1,0 +1,15 @@
+/home/andiraarif/SSE/.NET/gradebooknew/gradebook/src/Gradebook/bin/Debug/net6.0/Gradebook
+/home/andiraarif/SSE/.NET/gradebooknew/gradebook/src/Gradebook/bin/Debug/net6.0/Gradebook.deps.json
+/home/andiraarif/SSE/.NET/gradebooknew/gradebook/src/Gradebook/bin/Debug/net6.0/Gradebook.runtimeconfig.json
+/home/andiraarif/SSE/.NET/gradebooknew/gradebook/src/Gradebook/bin/Debug/net6.0/Gradebook.dll
+/home/andiraarif/SSE/.NET/gradebooknew/gradebook/src/Gradebook/bin/Debug/net6.0/Gradebook.pdb
+/home/andiraarif/SSE/.NET/gradebooknew/gradebook/src/Gradebook/obj/Debug/net6.0/Gradebook.csproj.AssemblyReference.cache
+/home/andiraarif/SSE/.NET/gradebooknew/gradebook/src/Gradebook/obj/Debug/net6.0/Gradebook.GeneratedMSBuildEditorConfig.editorconfig
+/home/andiraarif/SSE/.NET/gradebooknew/gradebook/src/Gradebook/obj/Debug/net6.0/Gradebook.AssemblyInfoInputs.cache
+/home/andiraarif/SSE/.NET/gradebooknew/gradebook/src/Gradebook/obj/Debug/net6.0/Gradebook.AssemblyInfo.cs
+/home/andiraarif/SSE/.NET/gradebooknew/gradebook/src/Gradebook/obj/Debug/net6.0/Gradebook.csproj.CoreCompileInputs.cache
+/home/andiraarif/SSE/.NET/gradebooknew/gradebook/src/Gradebook/obj/Debug/net6.0/Gradebook.dll
+/home/andiraarif/SSE/.NET/gradebooknew/gradebook/src/Gradebook/obj/Debug/net6.0/refint/Gradebook.dll
+/home/andiraarif/SSE/.NET/gradebooknew/gradebook/src/Gradebook/obj/Debug/net6.0/Gradebook.pdb
+/home/andiraarif/SSE/.NET/gradebooknew/gradebook/src/Gradebook/obj/Debug/net6.0/Gradebook.genruntimeconfig.cache
+/home/andiraarif/SSE/.NET/gradebooknew/gradebook/src/Gradebook/obj/Debug/net6.0/ref/Gradebook.dll
